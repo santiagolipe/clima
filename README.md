@@ -1,2 +1,47 @@
-# clima
-Aplicação para visualizar o clima de uma cidade.
+# <b>CALCULADORA</b>
+
+<img src="https://github.com/santiagolipe/calculadora/blob/main/src/calculadora.png" style="width:200px;"><br>
+
+
+## Descrição
+<p> Calculadora simples, usada para testar o conhecimento de HTML básico.</p>
+
+## Tecnologias utilizadas 
+
+As tecnologias usadas no projeto foram:
+
+* HTML
+* CSS
+* JS
+
+## Serviços usados
+
+* Github
+* Heroku - <a href target=_blank>https://calculadora-simplificada.herokuapp.com/</a>
+
+
+## Vamos começar?
+
+* Para iniciar, basta baixar o projeto, acessar o diretorio raiz e executar o arquivo <b>"calculadora.html"</b>
+
+## TELA DA APLICAÇÃO
+
+
+![inicio](https://github.com/santiagolipe/calculadora/blob/main/src/tela.JPG)
+
+
+## Links
+  - Linkedin: https://www.linkedin.com/in/santiagolipe
+  - Github: https://github.com/santiagolipe
+
+  ## Versão
+
+  1.0.0.0
+
+
+  ## Autor
+
+  **FELIPE SANTIAGO** <br>
+  Especialista em Desenvolvimento Web Fullstack <br><br>
+  
+  Obrigado pela sua visita, tenha um ótimo dia!
