@@ -1,10 +1,10 @@
-# <b>CALCULADORA</b>
+# <b>CLIMA</b>
 
 <img src="https://github.com/santiagolipe/clima/blob/main/img/weather-news.png" style="width:200px;"><br>
 
 
 ## Descrição
-<p> Calculadora simples, usada para testar o conhecimento de HTML básico.</p>
+<p> Aplicativo CLIMA, criado para visualização de dados do clima de uma cidade.</p>
 
 ## Tecnologias utilizadas 
 
@@ -17,7 +17,7 @@ As tecnologias usadas no projeto foram:
 ## Serviços usados
 
 * Github
-* Heroku - <a href target=_blank>https://calculadora-simplificada.herokuapp.com/</a>
+* Heroku - <a href target=_blank>https://clima-cidade.herokuapp.com/</a>
 
 
 ## Vamos começar?
