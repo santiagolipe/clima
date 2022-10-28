@@ -27,7 +27,7 @@ As tecnologias usadas no projeto foram:
 ## TELA DA APLICAÇÃO
 
 
-![inicio](https://github.com/santiagolipe/calculadora/blob/main/src/tela.JPG)
+![inicio](https://github.com/santiagolipe/clima/blob/main/img/main.PNG)
 
 
 ## Links
