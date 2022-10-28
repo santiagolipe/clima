@@ -1,6 +1,6 @@
 # <b>CALCULADORA</b>
 
-<img src="https://github.com/santiagolipe/calculadora/blob/main/src/calculadora.png" style="width:200px;"><br>
+<img src="https://github.com/santiagolipe/clima/blob/main/img/weather-news.png" style="width:200px;"><br>
 
 
 ## Descrição
